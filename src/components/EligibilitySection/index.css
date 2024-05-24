@@ -1,0 +1,9 @@
+.eligibility-section-container {
+    list-style-type: none;
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 85%;
+    margin-top: 3%;
+}

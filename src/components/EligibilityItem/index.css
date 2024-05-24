@@ -1,0 +1,30 @@
+.eligibility-card {
+    background-color: #f1edf1;
+    border-top: 4px solid #bf9de0;
+    width: 22%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
+    padding: 7px;
+}
+.eligibility-title {
+    color: #373638;
+    font-weight: bold;
+    font-size: 18px;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+.eligibility-card-description {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.eligibility-description {
+    color: #373638;
+    font-weight: 500;
+    font-size: 14px;
+    margin: 0px;
+    margin-left: 10px;
+
+}
